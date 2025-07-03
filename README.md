@@ -2,7 +2,7 @@
 
 This project is a **Streamlit-based web application** that predicts the selling price of a used car based on user input features such as brand, fuel type, engine specs, and more. The machine learning model was trained using a Jupyter Notebook (`CAR.ipynb`) and saved as `model.pkl`.
 
-## 🧠 Project Overview
+##  Project Overview
 
 - **Objective**: Predict resale price of used cars using regression
 - **Model Type**: Supervised Learning (Regression)
@@ -12,7 +12,7 @@ This project is a **Streamlit-based web application** that predicts the selling 
 
 ---
 
-## 🔍 Features Used
+##  Features Used
 
 | Feature             | Description                      | Example Values            |
 |---------------------|----------------------------------|---------------------------|
@@ -33,9 +33,12 @@ This project is a **Streamlit-based web application** that predicts the selling 
 Run the app using:
 ```bash
 streamlit run main.py
-It will open in your browser at: http://localhost:8501
+---
 
-## 📁 Project Structure
+It will open in your browser at: http://localhost:8501
+---
+
+## Project Structure
 bash
 Copy
 Edit
