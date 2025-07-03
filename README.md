@@ -16,7 +16,7 @@ This project is a **Streamlit-based web application** that predicts the selling 
 
 | Feature             | Description                      | Example Values            |
 |---------------------|----------------------------------|---------------------------|
-| Car Brand           | Manufacturer                     | Maruti, Hyundai           |
+| Car Brand           | Manufacturer                     | Maruti, Hyundai,etc           |
 | Year                | Year of manufacturing            | 1994 – 2024               |
 | KMs Driven          | Total kilometers driven          | 11 – 200000               |
 | Fuel Type           | Type of fuel                     | Petrol, Diesel            |
