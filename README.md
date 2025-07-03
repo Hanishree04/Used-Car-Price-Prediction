@@ -33,17 +33,4 @@ This project is a **Streamlit-based web application** that predicts the selling 
 Run the app using:
 ```bash
 streamlit run main.py
----
-
-It will open in your browser at: http://localhost:8501
----
-
-## Project Structure
-bash
-Copy
-Edit
-├── main.py          # Streamlit frontend
-├── CAR.ipynb        # Jupyter notebook for model training
-├── model.pkl        # Trained ML model
-├── README.md        # Documentation
 
